@@ -30,7 +30,7 @@ Idea-Up is a lightweight AI-powered application built with **LangChain, Ollama, 
 ## 📁 Project Structure
 
 ```text
-IdeaForge-AI/
+Idea-Up/
 ├── app.py
 ├── chains.py
 ├── requirements.txt
@@ -49,8 +49,8 @@ IdeaForge-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/IdeaForge-AI.git
-cd IdeaForge-AI
+git clone https://github.com/YOUR-USERNAME/Idea-Up.git
+cd Idea-Up
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
